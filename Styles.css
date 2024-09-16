@@ -1,0 +1,121 @@
+
+*{
+    background: rgb(241, 230, 179);
+}
+
+h1{
+    font-style: Arial;
+    font-size: 40px;
+    background-color: beige;
+    border-radius: 15px;
+    color: rgba(71, 39, 2, 0.932);
+    margin-left: 250px;
+    margin-right: 250px;
+}
+h2{
+    font-style: Times New Roman;
+    font-size: 22px;
+    color: rgba(36, 19, 1, 0.932);
+    margin: 0; /* Elimina el margen superior e inferior */
+    padding: 0;
+    
+}
+
+h6{
+    font-size: 15px;
+    color: rgba(36, 19, 1, 0.932);
+    margin: 0; /* Elimina el margen superior e inferior */
+    padding: 0;
+    margin-top: 5px;
+}
+.Section{
+    background: rgb(59, 37, 16);
+    font-size: 25px;
+    text-align: width;
+    text-decoration: underline;
+    margin-left: 80px;
+    margin-right: 800px;
+    padding: 15px;
+    color: rgb(241, 230, 179);
+    border: 20px;
+    border-radius: 15px; 
+}
+
+.courses-list{
+    margin-left: 20px;
+    padding-left: 50px;
+
+}
+.teachers-list{
+    margin-left: 20px;
+    padding-left: 50px;
+}
+
+#CICLOS{
+    margin-left:30px;
+    padding: 5px;
+    font-size: 16px;
+    color: rgba(66, 33, 5, 0.829);
+    background-color: rgba(241, 203, 121, 0.884);
+    border-radius: 20px;
+
+}
+#Presentation{
+    margin-left: 100px;
+    margin-right: 100px;
+    color: rgba(66, 33, 5, 0.829);
+    border: 5px;
+    border-color: rgb(48, 30, 3);
+    background-color: rgb(238, 224, 161);
+    font-size: 20px;
+    font-style: Times New Roman;
+    border-radius: 15px; 
+    padding: 10px;
+}
+ol{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgba(241, 203, 121, 0.884);
+    margin-left: 120px;
+    margin-right: 500px;
+
+}
+ul{
+   background-color:  rgba(241, 203, 121, 0.884);
+   padding: 8px;
+
+}
+li{
+    background-color:rgba(241, 203, 121, 0.884);
+    padding: 3px;
+
+}
+.Enlaces{
+    margin-left: 130px;
+    background-color:  rgba(241, 203, 121, 0.884);
+    padding: 8px;
+    border-radius: 15px;
+    margin-right: 800px;
+    color: blue;
+    font-size: 18px;
+    font-style: Arial Black;
+}
+
+.HORARIO{
+    border: 5px;
+    border-radius: 10px;
+    border-color: rgba(66, 33, 5, 0.829);
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 5px;
+    background-color: rgb(240, 203, 102);
+    font-size: 15px;
+    color: rgb(63, 29, 7);
+    text-align: center;
+    height: 300px;
+}
+
+.EncabezadoTabla{
+    font-size: 25px;
+    padding: 5px;
+}
